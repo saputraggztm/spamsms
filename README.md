@@ -1,4 +1,3 @@
-GNU nano 4.6         sms.php
 <?php
 $banner = "======================================>
 function sms($target) {
